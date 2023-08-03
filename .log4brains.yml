@@ -1,0 +1,5 @@
+project:
+  name: Casalilian Technical Records
+  tz: America/Chicago
+  adrFolder: ./docs/adr
+  packages: []
